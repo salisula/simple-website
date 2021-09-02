@@ -1,0 +1,174 @@
+.myheader{
+	font-family: 'Poppins', sans-serif;
+	margin-left: 4em;
+}	
+p{
+   font-family: 'Poppins', sans-serif;
+   margin: -3.2em;
+   margin-top: 1.8em;
+   margin-left: 5.8em;
+}
+#top{
+	display: flex;
+  	flex-direction: row;
+}
+.firstimg{
+	height: 70px;
+	width: 200px;
+	margin-left: 7.6em; 
+}
+.secondimg{
+	width: 100% 
+}
+.thirdimg{
+	margin-left: 17em;
+	height: 500px;
+	width: 800px;
+
+}
+.fashion{
+	font-family: 'Poppins', sans-serif;
+	margin-left: 31em;
+
+}
+.myp{
+    font-family: 'Poppins', sans-serif;
+	margin-left: 32em;
+}
+.fourthimg{
+	margin-left: 17em;
+	height: 280px;
+	width: 800px;
+}
+#myigure{
+	display: flex;
+	flex-direction: row;
+   font-family: 'Poppins', sans-serif;
+   justify-content: space-between;
+   margin-right: 28em;
+   margin-left: 11.5em;
+
+}
+#gmfps{
+	display: flex;
+	flex-direction: row;
+   font-family: 'Poppins', sans-serif;
+   justify-content: space-between;
+   margin-right: 24.5em;
+   margin-left: 25em;
+   font-size: 11px;
+
+}
+#previousprice{
+   font-family: 'Poppins', sans-serif;
+   font-size: 13px;
+   text-decoration: line-through;
+}
+#newprice {
+	font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    color: red;
+}
+
+#prices{
+	display: flex;
+    justify-content: space-between;
+	flex-direction: row;
+	margin-right: 19.5em;
+    margin-left: 14.7em;
+}
+
+#twoprices  {
+	display: flex;
+	flex-direction: row;
+} 
+.styles{
+	font-family: 'Poppins', sans-serif;
+	margin-left: 31em;
+
+}
+.p{
+    font-family: 'Poppins', sans-serif;
+	margin-left: 35em;
+}
+.img4{
+	margin-left: 18em;
+}
+.img5{
+	width: 100%
+}	
+.logoemail{
+	display: flex;
+	flex-direction: row;
+   font-family: 'Poppins', sans-serif;
+   margin-left: 8em;
+   margin-right: 5em; 
+   justify-content: space-between;
+   font-size: 25px;
+}
+.mytext{
+    font-family: 'Poppins', sans-serif;
+   margin-left: 0.1em;
+   font-size: 20px;
+   width: 18em;
+}
+.img6{
+	height: 50px;
+	width: 60px;
+}
+.comilla{
+	position: relative;
+    bottom: 90px;
+    margin-left: 2.5em;
+}
+.email{
+	position: relative;
+    bottom: 25px;
+    margin-left: 0em;
+    text-decoration: underline;
+}
+.mynumbers{
+	position: relative;
+    bottom: -35px;
+    margin-left: -1.7em;
+}
+.myimg7{
+	margin-left: -0.5em;
+}
+
+#joinbtn {
+	background-color: white;
+	border-color: white;
+	border-width: 0;
+
+}
+.myemail{
+	width: 400px
+}
+.bigdiv{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.myh5{
+	   font-family: 'Poppins', sans-serif;
+}
+.myh6{
+	   font-family: 'Poppins', sans-serif;
+	   font-weight: normal;
+}
+
+#div6s {
+	margin-bottom: 1em;
+}
+.mybody{
+	background-color: mintcream;
+}
+footer{
+	background-color: lightcyan;
+}
+.myh7{
+    font-family: 'Poppins', sans-serif;
+	font-size: 20px;
+	margin-left: 20em;
+}
